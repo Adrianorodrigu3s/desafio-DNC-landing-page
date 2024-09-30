@@ -1,0 +1,167 @@
+*{
+    margin:0px;
+    font-family: "inter";
+}
+
+
+#fundosuperior{
+    width:100%;
+    height: 475px;
+    gap: 0px;
+    opacity: 0px;
+    background-color:#303030;
+    margin-top: 0px;
+    padding:20px ;
+}
+
+#titulomenusuperior{
+   width:1024px;
+   line-height:72px;
+   font-size: 60px;
+   font-weight: normal;
+   line-height: 72px;
+   letter-spacing:-2.5%;
+   margin-left:62px;
+   color:#FFFFFF;
+   margin-top:206px;
+   text-align: left;
+    
+}
+
+#tituloinferior{
+   width:1024px;
+   height:28px;
+   top:298px;
+   margin-left:62px ;
+   gap:0px;
+   opacity:0px;
+   font-size:20px;
+   font-weight:300;
+   line-height:28px;
+   text-align:left;
+   color:#FFFFFF;
+
+}
+#estatisticas{
+    width:105%;
+    height:229px;
+    top: -42px;
+    left: -656px;
+    display:grid;
+    grid-auto-flow:column;
+    columns:auto;
+    background-color:#F9F9F9; 
+    
+}
+
+.estatisticas-item h2{
+   margin-top:80px ;
+   width:292px ;
+   font-size: 40px;
+   font-weight: 600;
+   line-height: 28px;
+   padding: 5px;
+   text-align: center;
+}
+
+.estatisticas-item p{
+   font-size: 20px;
+   font-weight: 400;
+   line-height: 28px;
+
+}
+
+#um{
+   text-align: center;
+}
+
+#dois{
+   text-align: center;
+} 
+
+#tres{
+   margin-left:70px ;
+}
+
+#secaoinfor {
+ width: 100%;
+ height:650px ; 
+  
+}
+
+#titulosecao{
+color:#000000 ;    
+font-size:40px;
+margin-top:200px;
+margin-left:5% ;
+}
+#paragrafosecao {
+ 
+font-size:24px ;
+margin-top:20px ; 
+margin-left: 5%;
+ 
+}
+
+#imagemarquitetonica{
+   
+width:100%;
+   
+  border-radius: 10px; 
+   margin-top:-325px ;
+  margin-left:+420px;
+  height:685px;
+ 
+}
+
+#formulario {
+   text-align:center;
+   background-color: #303030;
+   width:100%;
+   height: 600px;
+   padding-top:100px ;
+   
+  }
+  
+
+  #titulo-formulario {
+   width: 944px;
+   height:40px;
+   color:#FFFFFF ;
+   margin-left:+270px ;
+   font-size:32px ;
+  }
+  
+  input{
+   background-color:#FFFFFF ;
+   width:508px;
+   height:72px;
+   margin:15px;
+   border:0px;
+   border-radius:10px;
+   padding-left:30px;
+   font-weight:bolder   
+   
+  }
+  
+  button{
+    background-color:#C07212;
+    height:74px;
+    width:286px;
+    color:#FFFFFF;
+    border:0px;
+    border-radius:10px;
+    margin-bottom:50px;
+    cursor:pointer;
+    font-size:25px ;
+  }
+  
+  button:hover{
+    background-color:#318fb8; 
+    color:white;
+    transform: translateY(-7px);
+    box-shadow:0px 15px 20px#1044d281;
+    transition-duration:0.5s;
+  }
+  
+  
